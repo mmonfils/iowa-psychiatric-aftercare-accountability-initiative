@@ -27,6 +27,7 @@ Before any document update is finalized, this ledger must verify every core clai
 ### 1. Active Fact-Check Verification Checklist
 * [ ] **The Anchor Rule:** Every metric, dollar amount, or wage range used anywhere in this repository has an explicit, corresponding live link registered below. Unlinked or extrapolated statistics are barred.
 * [ ] **The Abstraction Rule:** No names of private individuals, specific landlords, or local businesses appear anywhere in the narrative or ledger.
+* [ ] **Zero-Extrapolation Check:** Ensure that no aggressive future financial trendlines, un-audited multiplier effects, or manufactured community cost assessments are present within the Economic Analysis.
 
 ### 2. Verified Repository Source-of-Truth Ledger
 *(AI/User to populate and anchor live URLs here as the issue is defined)*
