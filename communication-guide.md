@@ -21,3 +21,7 @@ Shifting public and legislative consensus requires translating systemic, adminis
 ## 4. Jargon & Compliance Scrubbing
 * [ ] **Sterile Language Purged:** Academic terms such as "systems theory," "SMI churn," and "structural abstraction" have been completely removed from public-facing deep canvassing assets.
 * [ ] **Liability Shielding:** Advocacy messaging positions participants strictly as independent, peer-to-peer neighborhood organizers, keeping all corporate, state, or legacy employer structures insulated from direct liability.
+
+---
+
+[← Back to Homepage](./)
