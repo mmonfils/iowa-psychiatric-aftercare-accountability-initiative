@@ -20,3 +20,7 @@ The financial defense of the status quo rests on a flawed assessment of short-te
 ## 4. Financial Grounding Audit
 * [ ] **URL Anchor Verification:** Financial baselines map to official Iowa Legislative Services Agency (LSA) fiscal notes, state HHS budget allocations, and regional ASO operational statements.
 * [ ] **Zero-Extrapolation Check:** Projections rely strictly on documented peer-city recidivism reductions observed following the implementation of strict discharge notification laws.
+
+---
+
+[← Back to Homepage](./)
