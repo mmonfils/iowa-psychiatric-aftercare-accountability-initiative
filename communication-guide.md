@@ -6,32 +6,18 @@ title: Communication Guide
 # Communication Guide: Deep Canvassing Strategy
 
 ## 1. Executive Summary
-*Provide a 3-sentence overview of the primary narrative strategy required to shift public consensus on this issue.*
-
----
+Shifting public and legislative consensus requires translating systemic, administrative mechanics into explicit, human-centered narratives focused on accountability. The communication strategy bypasses sterile bureaucratic phrasing to emphasize mutual community stability and institutional responsibility. Ground level advocacy must bridge partisan gaps by framing the issue as an essential metric of public safety and fiscal discipline.
 
 ## 2. Core Narrative Architecture
-*Translate the systemic data into human-centered messaging without veering into sterile academic jargon.*
-
-* **The Shared Value:** [What foundational community value unites both sides on this issue?]
-* **The Systemic Conflict:** [Clearly explain the structural breakdown without naming specific private entities]
-* **The Collective Path Forward:** [The unifying vision offered by the solution analysis]
-
----
+* **The Shared Value:** Every community member deserves a transparent, accountable healthcare system that prioritizes long-term safety, human dignity, and the responsible use of public resources.
+* **The Systemic Conflict:** Isolated hospital networks utilize administrative loopholes to discharge vulnerable, involuntarily committed patients directly onto public streets with zero communication, externalizing corporate medical costs onto local emergency systems and neighborhood families.
+* **The Collective Path Forward:** Enforcing strict, statutory discharge guardrails via regional ASOs to guarantee a warm handoff, mandatory 7-day medication access, and verifiable, transparent data tracking.
 
 ## 3. Deep Canvassing Script & Active Listening Prompts
-*An adaptable layout for on-the-ground interactions built to foster empathy and overcome institutional bias.*
-
-1. **The Hook (Story-Sharing):** "We are talking to neighbors today about [Issue described in plain language]..."
-2. **The Exploration (Eliciting Experience):** "Have you or someone you know ever dealt with a situation where..."
-3. **The Pivot (Connecting to Policy):** "The data shows this happens because of how our local rules are structured, not individual failures. What if we changed the rule to..."
-
----
+1. **The Hook (Story-Sharing):** "We are talking with neighbors today about how our local medical systems handle severe psychiatric emergencies, and ensuring that public hospitals can't simply walk vulnerable people out the door onto the street without a plan."
+2. **The Exploration (Eliciting Experience):** "Have you or someone you close to you ever tried to help a family member navigate a major mental health crisis, only to find that the system wouldn't coordinate care or provide essential medication details?"
+3. **The Pivot (Connecting to Policy):** "The data shows that this breakdown isn't caused by individual failures; it happens because our local rules don't require corporate hospitals to communicate with outpatient teams. If we enforce House File 385, hospitals will be legally required to provide a 7-day medication supply and coordinate directly with regional case managers before a discharge can occur."
 
 ## 4. Jargon & Compliance Scrubbing
-* [ ] **Sterile Language Purged:** Words like "systems theory," "friction cost," or "applied political economy" have been completely removed from public-facing talking points.
-* [ ] **Liability Shielding:** Messaging positions advocates as independent community peers; no legacy employers or corporate affiliations are named or implied.
-
----
-
-[← Back to Homepage](https://mmonfils.github.io/iowa-community-blueprints-template/)
+* [ ] **Sterile Language Purged:** Academic terms such as "systems theory," "SMI churn," and "structural abstraction" have been completely removed from public-facing deep canvassing assets.
+* [ ] **Liability Shielding:** Advocacy messaging positions participants strictly as independent, peer-to-peer neighborhood organizers, keeping all corporate, state, or legacy employer structures insulated from direct liability.

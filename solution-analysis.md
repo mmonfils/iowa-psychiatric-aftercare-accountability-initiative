@@ -6,31 +6,17 @@ title: Solution Analysis
 # Solution Analysis: Actionable Structural Remedies
 
 ## 1. Executive Summary
-*Provide a concise, 3-sentence summary explaining how the proposed solution leverages both local statutory authority and community solidarity frameworks.*
-
----
+The solution requires a dual-pronged strategy: leveraging local home rule and state statutory powers to enforce HF 385 compliance while simultaneously constructing independent, citizen-led parallel tracking systems. By binding regional ASOs to explicit quarterly reporting mandates, communities can expose institutional non-compliance and secure warm handoffs. Parallel mutual aid infrastructure ensures patient protection regardless of administrative delays.
 
 ## 2. Democratic Federalism (Policy & Statutory Leverage)
-*How does this solution utilize existing local home rule, municipal powers, or state-delegated authority to enforce structural change?*
-
-* **Targeted Policy/Ordinance Revision:** [Identify the code mechanism to be amended]
-* **Jurisdictional Enforcement Mechanism:** [Which local public body has the power to enact this?]
-* **Peer-City Precedent:** *Note: If no exact matching municipal model exists, state explicitly: "No documented peer program found matching these criteria."*
-
----
+* **Targeted Policy/Ordinance Revision:** Enactment and full implementation of HF 385, establishing that no patient under an involuntary court order may be discharged without a verified referral to their regional ASO for intensive case management.
+* **Jurisdictional Enforcement Mechanism:** The Iowa Department of Health and Human Services (HHS) holds direct oversight of the seven consolidated state ASOs, possessing the authority to tie regional funding renewals to strict compliance metrics.
+* **Peer-City Precedent:** Matching structural frameworks exist in Michigan (Kevin's Law, incorporating judicial contempt mechanisms for non-compliant hospitals) and Louisiana, which enacted strict discharge-notification laws to eliminate psychiatric streeting.
 
 ## 3. Dual Power & Economic Solidarity (Autonomous Infrastructure)
-*How can the community build independent, parallel systems of cooperation, mutual aid, or economic solidarity to protect themselves regardless of legislative delays?*
-
-* **Community-Led System:** [e.g., Community land trusts, neighborhood data-monitoring cooperatives]
-* **Resource Preservation Strategy:** [How the asset remains autonomous and insulated from outside institutional co-optation]
-
----
+* **Community-Led System:** Citizen-led data-monitoring cooperatives designed to cross-reference uncoordinated discharges with local shelter intakes and jail rosters, bypassing missing or siloed hospital data.
+* **Resource Preservation Strategy:** Cultivating independent peer-support and family-to-family networks (collaborating with autonomous bodies like NAMI Iowa) to deliver immediate mutual aid and navigation assistance, ensuring these defense networks remain free from state co-optation.
 
 ## 4. Boundary Posture Checklist
-* [ ] **Grassroots Autonomy:** The solution reads as an unfunded initiative of private citizens, free of institutional dependency.
-* [ ] **No Professional Counsel:** The solution provides an educational policy brief; it does not issue formal legal or financial directives.
-
----
-
-[← Back to Homepage](https://mmonfils.github.io/iowa-community-blueprints-template/)
+* [ ] **Grassroots Autonomy:** This strategic brief represents an independent, citizen-driven analysis entirely free from institutional grants or formal municipal state funding.
+* [ ] **No Professional Counsel:** Content is structured strictly for educational, strategic organizing purposes and does not constitute formal legal or medical directives.

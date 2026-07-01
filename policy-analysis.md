@@ -6,34 +6,18 @@ title: Policy Analysis
 # Policy Analysis: Political Economy & Power Structures
 
 ## 1. Executive Summary
-*Provide a concise, 3-sentence summary mapping out the dominant political economy dynamics, legislative roadblocks, and resource allocations driving this issue.*
-
----
+Iowa House File 385 establishes explicit statutory mandates governing the discharge of psychiatric patients under involuntary court orders. The political economy of this space is defined by an ongoing friction between corporate hospital networks seeking to minimize post-discharge administrative overhead and grassroots advocacy coalitions demanding state-level enforcement teeth. True structural reform relies on leveraging newly consolidated regional ASO reporting structures to guarantee transparency.
 
 ## 2. Legislative & Regulatory Framework
-*What are the existing municipal codes, state statutes, or administrative rules that anchor the current system?*
-
-* **Applicable Policy Reference A:** [Include specific statutory/code framework]
-* **Applicable Policy Reference B:** [Include specific statutory/code framework]
-
----
+* **Applicable Policy Reference A:** Iowa House File 385 (91st General Assembly) — Mandates mandatory ASO referrals, comprehensive suicide risk assessments, and written patient-centered aftercare plans prior to discharge.
+* **Applicable Policy Reference B:** Iowa Involuntary Commitment Statute (Iowa Code Chapter 229) — The statutory foundation governing individuals hospitalized under a court order, to which HF 385 appends strict post-acute care protections.
 
 ## 3. Power Structure Research
-*Map out the formal and informal networks of influence that govern this policy space.*
-
-* **Formal Authority (The Decision-Makers):** [e.g., City Council committees, state regulatory boards]
-* **Informal Influence (The Special Interests):** [Describe corporate, institutional, or coalition structures that influence the formal authority via systemic abstraction rules]
-* **Community Stakeholders (The Impacted Public):** [The citizens, workers, or residents bearing the brunt of the status quo]
-
----
+* **Formal Authority (The Decision-Makers):** The Iowa State Legislature (specifically the House and Senate Health and Human Services Committees) and the Iowa Department of Health and Human Services (HHS).
+* **Informal Influence (The Special Interests):** Private healthcare coalitions and corporate hospital lobbying arms (e.g., UnityPoint Health) advocating for reduced medication supply mandates and shielding facilities from contempt-of-court liabilities.
+* **Community Stakeholders (The Impacted Public):** Involuntively committed individuals, designated legal guardians, grassroots peer networks (e.g., NAMI Iowa), and local law enforcement bodies bearing the operational burden of psychiatric decompression.
 
 ## 4. Follow-the-Money Methodology
-> **Data Integrity Guardrail (Section I):** Every single dollar range, financial figure, or municipal metric listed below MUST be anchored to a live, verifiable public URL pointing to an official government portal, budget report, or audited study. Unlinked figures will result in immediate compilation disqualification.
-
-* **Revenue Generation Mechanisms:** [Where does the system pull its financial incentives from? Anchor to direct URL]
-* **Capital Allocation & Public Spend:** [How are municipal or private funds being deployed to sustain this policy environment? Anchor to direct URL]
-* **Financial Penalties/Externalities:** [What are the economic costs or fines associated with this dynamic? Anchor to direct URL]
-
----
-
-[← Back to Homepage](https://mmonfils.github.io/iowa-community-blueprints-template/)
+* **Revenue Generation Mechanisms:** Acute care beds generate maximum operational revenue during high-intensity stabilizing phases; prolonged stays or detailed outpatient care-coordination draw lower margins under traditional reimbursement structures.
+* **Capital Allocation & Public Spend:** Public funds are heavily weighted toward back-end emergency responses (mobile crisis dispatches, local jail medical expansions) rather than upstream, intensive outpatient case management.
+* **Financial Penalties/Externalities:** Under current rules, private hospitals internalize no financial liability for rapid recidivism; friction costs are completely externalized onto county budgets, local shelter networks, and municipal emergency services.
