@@ -21,3 +21,7 @@ Iowa House File 385 establishes explicit statutory mandates governing the discha
 * **Revenue Generation Mechanisms:** Acute care beds generate maximum operational revenue during high-intensity stabilizing phases; prolonged stays or detailed outpatient care-coordination draw lower margins under traditional reimbursement structures.
 * **Capital Allocation & Public Spend:** Public funds are heavily weighted toward back-end emergency responses (mobile crisis dispatches, local jail medical expansions) rather than upstream, intensive outpatient case management.
 * **Financial Penalties/Externalities:** Under current rules, private hospitals internalize no financial liability for rapid recidivism; friction costs are completely externalized onto county budgets, local shelter networks, and municipal emergency services.
+
+---
+
+[← Back to Homepage](./)
