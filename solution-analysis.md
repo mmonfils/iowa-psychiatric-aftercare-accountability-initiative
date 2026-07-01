@@ -17,10 +17,6 @@ The solution requires a dual-pronged strategy: leveraging local home rule and st
 * **Community-Led System:** Citizen-led data-monitoring cooperatives designed to cross-reference uncoordinated discharges with local shelter intakes and jail rosters, bypassing missing or siloed hospital data.
 * **Resource Preservation Strategy:** Cultivating independent peer-support and family-to-family networks (collaborating with autonomous bodies like NAMI Iowa) to deliver immediate mutual aid and navigation assistance, ensuring these defense networks remain free from state co-optation.
 
-## 4. Boundary Posture Checklist
-* [ ] **Grassroots Autonomy:** This strategic brief represents an independent, citizen-driven analysis entirely free from institutional grants or formal municipal state funding.
-* [ ] **No Professional Counsel:** Content is structured strictly for educational, strategic organizing purposes and does not constitute formal legal or medical directives.
-
 ---
 
 [← Back to Homepage](./)
