@@ -18,10 +18,6 @@ Shifting public and legislative consensus requires translating systemic, adminis
 2. **The Exploration (Eliciting Experience):** "Have you or someone you close to you ever tried to help a family member navigate a major mental health crisis, only to find that the system wouldn't coordinate care or provide essential medication details?"
 3. **The Pivot (Connecting to Policy):** "The data shows that this breakdown isn't caused by individual failures; it happens because our local rules don't require corporate hospitals to communicate with outpatient teams. If we enforce House File 385, hospitals will be legally required to provide a 7-day medication supply and coordinate directly with regional case managers before a discharge can occur."
 
-## 4. Jargon & Compliance Scrubbing
-* [ ] **Sterile Language Purged:** Academic terms such as "systems theory," "SMI churn," and "structural abstraction" have been completely removed from public-facing deep canvassing assets.
-* [ ] **Liability Shielding:** Advocacy messaging positions participants strictly as independent, peer-to-peer neighborhood organizers, keeping all corporate, state, or legacy employer structures insulated from direct liability.
-
 ---
 
 [← Back to Homepage](./)
