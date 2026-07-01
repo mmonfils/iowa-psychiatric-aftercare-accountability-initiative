@@ -1,0 +1,23 @@
+theme: jekyll-theme-cayman
+title: Local Community Blueprint
+description: Policy Brief
+
+# Add your absolute production site URL here so plugins can stitch together paths
+url: "https://mmonfils.github.io"
+baseurl: "/iowa-community-blueprints-template"
+
+# Asset Mapping for Favicon and Sharing Thumbnails
+favicon: /assets/favicon.png
+image: /assets/thumbnail.jpg
+
+# Instruct GitHub Pages to inject automatic Open Graph and SEO tags
+plugins:
+  - jekyll-seo-tag
+
+# Prevents these critical internal tools from turning into public web pages
+exclude:
+  - golden-thread.md
+  - repo-guardrails.md
+  - prompt-recipe.md
+  - README.md
+  - LICENSE
