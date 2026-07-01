@@ -17,10 +17,6 @@ The financial defense of the status quo rests on a flawed assessment of short-te
 * **Frictional Waste Source A (Administrative & Emergency Overhead):** Hyper-inflated emergency department cycling costs, where single uncoordinated patients generate dozens of acute admissions annually due to rapid post-discharge decompensation.
 * **Frictional Waste Source B (Operational Redundancy):** Local law enforcement expenditures via frequent wellness checks, crisis dispatches, and extended holds within county jail facilities lacking dedicated psychiatric infrastructure.
 
-## 4. Financial Grounding Audit
-* [ ] **URL Anchor Verification:** Financial baselines map to official Iowa Legislative Services Agency (LSA) fiscal notes, state HHS budget allocations, and regional ASO operational statements.
-* [ ] **Zero-Extrapolation Check:** Projections rely strictly on documented peer-city recidivism reductions observed following the implementation of strict discharge notification laws.
-
 ---
 
 [← Back to Homepage](./)
