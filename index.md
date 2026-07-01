@@ -1,11 +1,10 @@
 ---
 layout: default
-title: [Issue of Public Concern]
 image: /assets/thumbnail.jpg
 ---
 
-### [Insert Subtitle: The Specific Local Mechanism Being Addressed]
-**Why You Are Here:** [Insert Justification: The 2-sentence emotional and structural hook that demands immediate community attention.]
+### Reforming Iowa's Psychiatric Discharge System via Mandatory ASO Continuity of Care (HF 385)
+**Why You Are Here:** Iowa hospitals routinely execute uncoordinated psychiatric discharges, shifting the systemic burden to families, homeless shelters, and jail cells. This blueprint empowers Iowa neighbors to organize, monitor, and enforce the statutory continuity-of-care guardrails established under House File 385.
 
 ---
 
