@@ -21,3 +21,7 @@ The practice of uncoordinated psychiatric discharge ("streeting") across Iowa sh
 ## 4. Systemic Abstraction Audit
 * **Primary Structural Actor Type A:** Acute care private hospital networks operating under municipal tax exemptions that prioritize rapid bed-turnover over longitudinal aftercare stabilization.
 * **Primary Structural Actor Type B:** Regional administrative service organizations (ASOs) managing public behavioral health allocations without standardized, publicly auditable tracking for post-hospitalization continuity.
+
+---
+
+[← Back to Homepage](./)
