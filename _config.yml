@@ -3,8 +3,8 @@ title: Iowa Psychiatric Aftercare Accountability Initiative
 description: Community-led data and policy analysis for Iowa HF 385 psychiatric aftercare standards.
 
 # Add your absolute production site URL here so plugins can stitch together paths
-url: "https://yourusername.github.io"
-baseurl: "/iowa-psychiatric-aftercare-accountability-initiative"
+url: ""
+baseurl: ""
 
 # Asset Mapping for Favicon and Sharing Thumbnails
 favicon: /assets/favicon.png
