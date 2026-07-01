@@ -23,6 +23,7 @@ The content must be systematically reviewed and cleared of the following five ar
 
 ## IV. Public Terminology and Jargon Scrubbing
 * [ ] **Accessibility Review:** Verified that public-facing documents have been scrubbed of sterile academic jargon, alienating institutional phrases, and overly dense communication patterns. Technical concepts must be contextually rephrased clearly so any reader can comprehend the text without losing factual precision or authority.
+* [ ] **Sterile Language Purged:** Explicitly verify that systemic academic phrases such as "systems theory," "friction cost," or "applied political economy" have been completely removed from public-facing talking points or localized text summaries.
 * [ ] **Stylistic Purity Check:** Verified that absolutely no emojis or em dashes (—) are present anywhere in the final output text of the documents. Use alternative clean punctuation such as colons, commas, or parentheses where necessary.
 
 ## V. Legal, Autonomy, and Disclosure Boundaries (Internal Posture)
